@@ -1,0 +1,16 @@
+{
+  "name": "@macopedia/table-of-contents",
+  "version": "0.12",
+  "description": "CKEditor 4 Table of Contents plugin",
+  "keywords": ["ckeditor", "plugin", "toc"],
+  "homepage": "https://ckeditor.com/cke4/addon/contents",
+  "bugs": {
+    "url": "https://github.com/macopedia/Table-of-Contents/issues"
+  },
+  "license" : "MIT",
+  "author": "drunk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macopedia/Table-of-Contents.git"
+  }
+}
